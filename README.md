@@ -43,9 +43,6 @@ Python A-Z™: Python For Data Science With Real Exercises!
 GitHub Repositories
 Below are some of the notable projects I have worked on and shared on GitHub:
 
-Project 1: Brief description of the project.
-Project 2: Brief description of the project.
-Project 3: Brief description of the project.
 Please feel free to check out my repositories for more projects and code contributions.
 
 Thank you for visiting my GitHub profile. If you have any questions or collaboration opportunities, feel free to reach out to me. Happy coding! 🚀
